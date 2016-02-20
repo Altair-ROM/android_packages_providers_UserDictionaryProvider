@@ -20,6 +20,7 @@
 
     <application android:process="android.process.acore"
         android:label="@string/app_label"
+        android:icon="@drawable/ic_launcher_dictionary"
         android:allowClearUserData="false"
         android:backupAgent="DictionaryBackupAgent"
         android:killAfterRestore="false"
